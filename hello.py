@@ -1,1 +1,1 @@
-print("Hello from Binder!")
+conda install -c conda-forge jupyterlab
